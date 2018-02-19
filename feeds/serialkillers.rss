@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>True Crimes Press Serial Killer News Feed</title>
+    <link>https://www.truecrimes.press/</link>
+    <description>True Crimes Press Serial Killer News Feed from Various News Sources</description>
+    <language>en-us</language>
+    <managingEditor>contact@TrueCrimes.Press</managingEditor>
+    <webMaster>contact@TrueCrimes.Press</webMaster>
+    <item>
+      <title>Serial killer 'confesses' to killing British student Joanna Parrish in France</title>
+      <pubDate>Mon, 19 Feb 2018 16:31:51 +0100</pubDate>
+      <link>https://www.thelocal.fr/20180216/serial-killer-confesses-to-killing-british-student-joanna-parrish-in-france</link>
+      <guid isPermaLink="true">https://www.thelocal.fr/20180216/serial-killer-confesses-to-killing-british-student-joanna-parrish-in-france</guid>
+      <author>news.france@thelocal.com</author>
+      <description><![CDATA[A French serial killer dubbed the Ogre of the Ardennes has confessed to the murder of British student Joanna Parrish in 1990, the victim’s family’s lawyer has said.]]></description>
+    </item>
+  </channel>
+</rss>
